@@ -1,0 +1,6 @@
+framework module Pods_ReactiveCocoa____ {
+  umbrella header "Pods-ReactiveCocoa之基础篇-umbrella.h"
+
+  export *
+  module * { export * }
+}

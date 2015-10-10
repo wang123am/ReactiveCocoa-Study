@@ -1,0 +1,12 @@
+# Uncomment this line to define a global platform for your project
+#platform :ios, '6.0'
+
+target 'ReactiveCocoa之基础篇' do
+use_frameworks!
+pod 'ReactiveCocoa', '~> 3.0-alpha.3'
+end
+
+target 'ReactiveCocoa之基础篇Tests' do
+
+end
+

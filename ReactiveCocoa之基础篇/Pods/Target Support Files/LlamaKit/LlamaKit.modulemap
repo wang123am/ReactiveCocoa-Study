@@ -1,0 +1,6 @@
+framework module LlamaKit {
+  umbrella header "LlamaKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

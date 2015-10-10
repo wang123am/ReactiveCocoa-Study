@@ -1,0 +1,22 @@
+PODS:
+  - LlamaKit (0.1.1)
+  - ReactiveCocoa (3.0.0-alpha.1):
+    - LlamaKit (= 0.1.1)
+    - ReactiveCocoa/UI (= 3.0.0-alpha.1)
+  - ReactiveCocoa/Core (3.0.0-alpha.1):
+    - LlamaKit (= 0.1.1)
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (3.0.0-alpha.1):
+    - LlamaKit (= 0.1.1)
+  - ReactiveCocoa/UI (3.0.0-alpha.1):
+    - LlamaKit (= 0.1.1)
+    - ReactiveCocoa/Core
+
+DEPENDENCIES:
+  - ReactiveCocoa (~> 3.0-alpha.3)
+
+SPEC CHECKSUMS:
+  LlamaKit: 25f47a933b6580a6fc159d95adb2e2953c7012e9
+  ReactiveCocoa: 3b5e351bb3ab233d71f0329f36a7400af30d9783
+
+COCOAPODS: 0.38.2
